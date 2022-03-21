@@ -1,2 +1,0 @@
-D:\代码\练手\Debug\练手.exe
-D:\代码\练手\Debug\练手.pdb
